@@ -1,6 +1,7 @@
+# About Me 
 - 👋 Hi, I’m @ghettoduke777
-- 👀 I’m interested in ... *
-- 🌱 I’m currently learning ... ??
+- 👀 I’m interested in Software engineering and Data Science.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ... ..?
 - 📫 How to reach me ...ghetto_duk777@hotmail.com
 
